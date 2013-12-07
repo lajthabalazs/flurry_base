@@ -3,10 +3,5 @@
     <string name="app_name">FlurryBase</string>
 
     <!-- Flurry stuff  -->
-	<string name="flurryKey">N5FZR2HP5CX72HZNYQRM</string>
-
-	<string name="flurryAdSpaceNameTop">FLURRY_BASE_ANDROID_TOP</string>
-	<string name="flurryAdSpaceNameBottom">FLURRY_BASE_ANDROID_BOTTOM</string>
-	<string name="flurryAdSpaceNameFull">FLURRY_BASE_ANDROID_FULL_SCREEN</string>
-	
+	<string name="flurryKeys">N5FZR2HP5CX72HZNYQRM</string>
 </resources>
